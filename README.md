@@ -16,6 +16,8 @@ We implemented features one by one, (movement, colision detector, audio effects,
 //Tech && Methodologies Java 7, OOP, SimpleGFX Library, IntelliJ IDEA, Apache Ant, Git, Photoshop
 <p>
 
+//Gameplay example <p> 
+ 
 <div align="center">
 <img width="608" alt="Screen Shot 2022-04-01 at 19 37 05" src="https://user-images.githubusercontent.com/102623822/161325402-27142bdb-9597-48ba-8a85-d519e994836f.png">
 
