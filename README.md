@@ -13,5 +13,5 @@ We implemented features one by one, (movement, colision, audio effects, graphic 
 
 //Tech && Methodologies Java 7, OOP, SimpleGFX Library, IntelliJ IDEA, Apache Ant, Git, Photoshop
 
-<img width="624" alt="Screen Shot 2022-04-01 at 19 37 05" src="https://user-images.githubusercontent.com/102623822/161322942-8a6acc22-f097-46b0-a1d1-cb2a1c6b3a29.png">
 
+<img width="608" alt="Screen Shot 2022-04-01 at 19 37 05" src="https://user-images.githubusercontent.com/102623822/161323639-14707011-9832-465f-aca6-4d71aaa0f51f.png">
