@@ -1,7 +1,7 @@
 # Rolo_Adventures
 Rolo Adventures Game.
 
-// Project Description 
+// Project Description <p>
 Our first group project which took part in our 4th week @<Academia de Código_> #68 Bootcamp @ Porto. We were challenged to create a game applying the features we had learned the previous weeks accomplished with the libraby "SimplesGraphics". Deadline for project deployment: 10 nights!
 
 // The Idea 
